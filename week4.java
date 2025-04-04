@@ -26,5 +26,7 @@ public class Week4 {
         Student1.display();
         Manuba.display();
         Delbo.display();
+        Gabejan.display();
+        
     }
 }
